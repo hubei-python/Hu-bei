@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-# Project: maxent-ml
-# Author: chaoxu create this file
-# Time: 2018/3/1
-# Company : Maxent
-# Email: chao.xu@maxent-inc.com
-from copy import deepcopy
-
-
 def insert(intervals, newInterval):
     # write your code here
 
